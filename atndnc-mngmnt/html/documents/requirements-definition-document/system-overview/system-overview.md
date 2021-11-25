@@ -1,19 +1,11 @@
 # システム概要
 
-システム概念図
-システムの業務フロー
-ユースケース図
-- どうしてそのシステムが必要なのか
+システム概念図<br>
 texttexttexttexttexttexttexttexttexttext
-texttexttexttexttexttexttexttext
-texttext
-texttext
-texttext
-texttext
-- そのシステムの目標は何なのか
+
+システムの業務フロー<br>
 texttexttexttexttexttexttexttexttexttext
-texttexttexttexttexttexttexttext
-texttext
-texttext
-texttext
-texttext
+
+ユースケース図<br>
+texttexttexttexttexttexttexttexttexttext
+

@@ -1,23 +1,10 @@
 # システムの構成図
 
-- システム概念図
+- システム概念図<br>
 texttexttexttexttexttexttexttexttexttext
-texttexttexttexttexttexttexttext
-texttext
-texttext
-texttext
-texttext
-- システムの業務フロー
+
+- システムの業務フロー<br>
 texttexttexttexttexttexttexttexttexttext
-texttexttexttexttexttexttexttext
-texttext
-texttext
-texttext
-texttext
-- ユースケース図
+
+- ユースケース図<br>
 texttexttexttexttexttexttexttexttexttext
-texttexttexttexttexttexttexttext
-texttext
-texttext
-texttext
-texttext
