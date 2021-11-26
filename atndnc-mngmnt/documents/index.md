@@ -1,4 +1,4 @@
-## [トップ](/docs/index.html) > [勤怠管理システム (仮)](../index.html) > ドキュメント管理
+[トップ](/index.html) > [勤怠管理システム (仮)](../index.html) > ドキュメント管理
 
 ## [基本設計書](./basic-design-documents/index.html)<br>
 

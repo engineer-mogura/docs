@@ -1,4 +1,4 @@
-# 基本設計書
+## 基本設計書
 
 1.  [業務要件](./business-requirements/business-requirements.html)<br>
     * システム化の目的・背景・狙い
