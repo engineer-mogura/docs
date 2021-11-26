@@ -1,4 +1,4 @@
 # 勤怠管理システム (仮)
 ## [ドキュメント管理](./documents/index.html)
 
-## [開発環境](http://ec2-54-248-65-156.ap-northeast-1.compute.amazonaws.com/)
+## [開発環境](http://54.248.65.156/)
