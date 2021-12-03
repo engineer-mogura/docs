@@ -1,6 +1,6 @@
 ## 基本設計書
 
-1. [業務要件](./business-req/business-req.html)
+1. [業務要件](./business-req/business-req.html)<img width="30em" height="30em" src="../../../icons/new.svg"/>
     * システム化の目的・背景・狙い
     * ビジネスプロセス関連図
     * 業務機能構成表
