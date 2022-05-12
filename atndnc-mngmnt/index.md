@@ -3,4 +3,4 @@
 ## (仮)Works
 ### [ドキュメント管理](./documents/index.html)
 
-### [開発デモ環境](http://54.248.65.156/)
+### [開発デモ環境](http://kari-works.com/)
