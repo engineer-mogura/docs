@@ -1,6 +1,6 @@
-[プロジェクト管理](/) > (仮)Works
+[プロジェクト管理](/) > CloudWorks
 
-## (仮)Works
+## CloudWorks
 ### [ドキュメント管理](./documents/index.html)
 
 ### [開発デモ環境](https://kari-works.com/)
