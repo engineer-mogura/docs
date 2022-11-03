@@ -6,10 +6,10 @@ services:
     build:
       context: .
       dockerfile: ./docker/web/Dockerfile
-    # ports:
-    #   - 8090:80
+    ports:
+      - 8090:80
     volumes:
-      # - ./nginx/log:/var/log/nginx
+      - ./nginx/logs:/var/log/nginx
       - ./:/usr/share/nginx/html
     environment:
       - VIRTUAL_HOST=docs.local
